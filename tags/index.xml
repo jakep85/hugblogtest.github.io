@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Tags · Hugo Blog Test</title>
+    
+    <link>https://hugoblogtest.github.io/tags/</link>
+    <description>Recent content in Tags · Hugo Blog Test</description>
+    
+    <language>en-us</language>
+    
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    <copyright>© Author Name</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://hugoblogtest.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>bluth</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/bluth/</link>
+      <guid>https://hugoblogtest.github.io/tags/bluth/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>ipsum</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/ipsum/</link>
+      <guid>https://hugoblogtest.github.io/tags/ipsum/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>css</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/css/</link>
+      <guid>https://hugoblogtest.github.io/tags/css/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>html</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/html/</link>
+      <guid>https://hugoblogtest.github.io/tags/html/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>markdown</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/markdown/</link>
+      <guid>https://hugoblogtest.github.io/tags/markdown/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>privacy</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/privacy/</link>
+      <guid>https://hugoblogtest.github.io/tags/privacy/</guid>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>shortcodes</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/shortcodes/</link>
+      <guid>https://hugoblogtest.github.io/tags/shortcodes/</guid>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>text</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/text/</link>
+      <guid>https://hugoblogtest.github.io/tags/text/</guid>
+      
+      
+      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>emoji</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/emoji/</link>
+      <guid>https://hugoblogtest.github.io/tags/emoji/</guid>
+      
+      
+      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>index</title>
+      
+      
+      <link>https://hugoblogtest.github.io/tags/index/</link>
+      <guid>https://hugoblogtest.github.io/tags/index/</guid>
+      
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+  </channel>
+</rss>
